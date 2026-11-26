@@ -1,0 +1,49 @@
+{
+  "date": "2026-11-26",
+  "day": "Thursday",
+  "stories": [
+    {
+      "tag": "SPACE",
+      "headline": "First Pakistani astronaut reaches China's Tiangong station",
+      "summary": "Shenzhou-24 docked with Tiangong on 25 November; Muhammad Zeeshan Ali is the first Pakistani in orbit and the first foreign astronaut aboard China's space station.",
+      "color": "#7C3AED"
+    },
+    {
+      "tag": "BRAZIL",
+      "headline": "Petrobras approves $122bn five-year investment plan",
+      "summary": "Brazil's state oil giant approved a $122 billion plan for 2027–2031, targeting record output of 2.9 million barrels a day and paying $2.6 billion in extra dividends.",
+      "color": "#15803D"
+    },
+    {
+      "tag": "CANADA",
+      "headline": "Carney unveils aid for steel and lumber, new steel tariffs",
+      "summary": "PM Mark Carney announced support for steel and lumber hit by US tariffs, tighter quotas on foreign steel and a 25% global tariff on steel-derivative imports.",
+      "color": "#B42318"
+    },
+    {
+      "tag": "UKRAINE",
+      "headline": "Russia's own figures show nearly 500,000 lost in Ukraine war",
+      "summary": "Leaked records from Russia's Rosstat agency, analysed by the BBC, show at least 490,334 Russian soldiers have died since the invasion began in February 2022.",
+      "color": "#0F766E"
+    },
+    {
+      "tag": "COLOMBIA",
+      "headline": "Colombia marks 10 years since historic peace deal",
+      "summary": "A decade after the 2016 accord with the FARC ended 50 years of war, UN chief Guterres urges Colombia to finish implementing it as violence persists where the state never reached.",
+      "color": "#B45309"
+    },
+    {
+      "tag": "BANGLADESH",
+      "headline": "Bangladesh raises garment workers' minimum wage 36%",
+      "summary": "After weeks of protests that shut factories, the wage board raised the minimum to 17,000 taka (about $136) a month from 12,500, effective 1 December.",
+      "color": "#1D4ED8"
+    }
+  ],
+  "also_today": [
+    "US consumer confidence hits near two-year high despite persistent inflation.",
+    "Joint Japanese-European mission reaches Mercury after an eight-year journey.",
+    "Venezuela reveals $237.5bn public debt as government prepares historic restructuring."
+  ],
+  "sources": ["Reuters", "BBC", "AP", "UN"],
+  "note": "Real world news of 26 November 2026, verified 26 Nov 2026 against Reuters, BBC, AP, UN, ESA and Nature reporting. Hong Kong Tai Po fire excluded: it happened 26 Nov 2025, not 2026."
+}
